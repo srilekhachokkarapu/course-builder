@@ -179,7 +179,9 @@ def create_pdf(title: str, full_text: str) -> bytes:
     pdf.add_page()
     pdf.chapter_title(title)
     pdf.chapter_body(full_text)
-    return bytes(pdf.output(dest="S"))
+    pdf_bytes = pdf.output(dest="S").encode("latin-1")
+    return pdf_bytes
+     
 
 def parse_modules(text: str):
     lines = text.splitlines()
@@ -621,3 +623,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
