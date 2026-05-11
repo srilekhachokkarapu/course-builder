@@ -34,17 +34,40 @@ This project allows users to generate customized course content based on topic, 
 
 
 
-## Home Page
-(Add Screenshot)
+## REGISTRATION MODULE
+(<img width="1053" height="460" alt="l1" src="https://github.com/user-attachments/assets/16b99389-99cd-496d-b0d6-4ab344d0179e" />
+)
 
-## Course Generation Page
-(Add Screenshot)
+## LOGIN MODULE
+(<img width="954" height="276" alt="l2" src="https://github.com/user-attachments/assets/be3ca4f3-dec8-47d3-947c-142d00ef6b92" />
+)
 
-## Generated Course Preview
-(Add Screenshot)
+## DASHBOARD INTERFACE
+(<img width="1040" height="423" alt="l3" src="https://github.com/user-attachments/assets/13917388-e6d6-49f9-a291-2f93ae7c42bd" />
+)
 
-## PDF Download Feature
-(Add Screenshot)
+## COURSE CREATION
+(<img width="629" height="516" alt="l4" src="https://github.com/user-attachments/assets/fdb38655-77e1-4264-a551-6cee22abf512" />
+)
+
+## LEARNER PROFILE
+( <img width="672" height="617" alt="l5" src="https://github.com/user-attachments/assets/834f30d5-c047-4a65-b794-e0ed81ae9271" />
+)
+
+## PERSONALIZED OPTIONS
+(<img width="775" height="928" alt="l6" src="https://github.com/user-attachments/assets/a80bd46a-1b8a-49ac-a756-999e13ebbb24" />
+)
+
+## AI BASED COURSE GENERATION
+(<img width="1040" height="323" alt="l7" src="https://github.com/user-attachments/assets/9461446f-a65e-4b6f-a720-ebe5d7ffadb3" />
+)
+
+## GENERATED COURSE OUTPUT
+(<img width="1028" height="473" alt="l8" src="https://github.com/user-attachments/assets/f09e5453-6b07-4954-be7b-9d98311245db" />
+)
+
+## ADDITIONAL FEATURES
+(<img width="957" height="434" alt="canvas" src="https://github.com/user-attachments/assets/9fb5e504-2803-4559-918f-c632d777670a" />)
 
 ---
 
