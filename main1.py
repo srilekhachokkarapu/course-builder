@@ -18,7 +18,7 @@ st.set_page_config(
     layout="wide",
 )
 
-VISIBLE_MODEL_NAME = "Gemini 2.0"
+
 GEMINI_MODEL = "gemini-2.5-flash"
 
 # ---- READ API KEY FROM SECRETS (HIDDEN) ----
